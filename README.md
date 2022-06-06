@@ -21,7 +21,7 @@
 
 1. before npm install please check your node version (type node -v in your terminal ) <and make sure you have node version 16 or latest >
    **in this project used node version: 16.13.2**
-2. Clone this repository `git clone <Your Project Name>`
+2. Clone this repository `git clone https://github.com/fridolinf/gashpack-frontend-engineer-test.git <Your Project Name>`
 3. Open terminal and install all depedencies `yarn install` or if you're using npm `npm install`
 4. Build `yarn install` or `npm run build`
 5. Last steps, you can run your project with `yarn start` or `npm start`. And the project was served on `http://localhost:3000`
