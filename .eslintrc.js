@@ -25,5 +25,6 @@ module.exports = {
         ignoreNonDOM: true,
       },
     ],
+    "react-hooks/exhaustive-deps": "off",
   },
 };
